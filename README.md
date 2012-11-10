@@ -2,4 +2,4 @@ Geocraft
 ========
 
 Geocraft
-Minecraft Server
+The best bukkit server in the world!! Factions, Multiworld, and Much MORE!!!
