@@ -1,4 +1,5 @@
 Geocraft
 ========
 
-Geocraft - Minecraft Server
+Geocraft
+Minecraft Server
